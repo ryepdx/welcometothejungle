@@ -1,0 +1,21 @@
+{
+  "name": "welcometothejungle",
+  "version": "0",
+  "homepage": "https://github.com/ryepdx/welcometothejungle",
+  "authors": [
+    "Ryan Casey <ryepdx@gmail.com>"
+  ],
+  "description": "Brings jsonrpclib to its kn-kn-kn-kn-kn-knees.",
+  "main": "index.html",
+  "keywords": [
+    "ethereum"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
